@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>redu_Type__c</fullName>
+    <description>Type of email template.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Type of email template.</inlineHelpText>
+    <label>Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>(All)</fullName>
+                <default>true</default>
+                <label>(All)</label>
+            </value>
+            <value>
+                <fullName>Confirmation</fullName>
+                <default>false</default>
+                <label>Confirmation</label>
+            </value>
+            <value>
+                <fullName>Offer</fullName>
+                <default>false</default>
+                <label>Offer</label>
+            </value>
+            <value>
+                <fullName>Reject</fullName>
+                <default>false</default>
+                <label>Reject</label>
+            </value>
+            <value>
+                <fullName>Referral</fullName>
+                <default>false</default>
+                <label>Referral</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

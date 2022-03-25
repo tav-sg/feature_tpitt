@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Study_Centre__c</fullName>
+    <description>The study centre (or all) this email pipeline applied to.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The study centre (or all) this email pipeline applied to.</inlineHelpText>
+    <label>Study Centre</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>(All)</fullName>
+                <default>true</default>
+                <label>(All)</label>
+            </value>
+            <value>
+                <fullName>Cambridge</fullName>
+                <default>false</default>
+                <label>Cambridge</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

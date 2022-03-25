@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>redu_Stage__c</fullName>
+    <description>The stage (or path, of status) of the object this email template applies to.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The stage (or path, of status) of the object this email template applies to.</inlineHelpText>
+    <label>Stage</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>(All)</fullName>
+                <default>true</default>
+                <label>(All)</label>
+            </value>
+            <value>
+                <fullName>Applied</fullName>
+                <default>false</default>
+                <label>Applied</label>
+            </value>
+            <value>
+                <fullName>Offered</fullName>
+                <default>false</default>
+                <label>Offered</label>
+            </value>
+            <value>
+                <fullName>Student Has Accepted</fullName>
+                <default>false</default>
+                <label>Student Has Accepted</label>
+            </value>
+            <value>
+                <fullName>Conditionally Admitted</fullName>
+                <default>false</default>
+                <label>Conditionally Admitted</label>
+            </value>
+            <value>
+                <fullName>Fully Admitted</fullName>
+                <default>false</default>
+                <label>Fully Admitted</label>
+            </value>
+            <value>
+                <fullName>Pre-Arrival</fullName>
+                <default>false</default>
+                <label>Pre-Arrival</label>
+            </value>
+            <value>
+                <fullName>Started</fullName>
+                <default>false</default>
+                <label>Started</label>
+            </value>
+            <value>
+                <fullName>Assessment</fullName>
+                <default>false</default>
+                <label>Assessment</label>
+            </value>
+            <value>
+                <fullName>Confirmation</fullName>
+                <default>false</default>
+                <label>Confirmation</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

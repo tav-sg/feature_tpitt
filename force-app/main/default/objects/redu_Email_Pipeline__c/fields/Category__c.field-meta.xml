@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Category__c</fullName>
+    <description>Category of email pipeline.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Category of email pipeline.</inlineHelpText>
+    <label>Category</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>Communication_Category</valueSetName>
+    </valueSet>
+</CustomField>

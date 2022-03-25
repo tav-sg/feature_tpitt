@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Destination_Centre__c</fullName>
+    <externalId>false</externalId>
+    <label>Destination Centre</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>(All)</fullName>
+                <default>false</default>
+                <label>(All)</label>
+            </value>
+            <value>
+                <fullName>Auckland</fullName>
+                <default>false</default>
+                <label>Auckland</label>
+            </value>
+            <value>
+                <fullName>Australian National University</fullName>
+                <default>false</default>
+                <label>Australian National University</label>
+            </value>
+            <value>
+                <fullName>Baylor University</fullName>
+                <default>false</default>
+                <label>Baylor University</label>
+            </value>
+            <value>
+                <fullName>Brighton</fullName>
+                <default>false</default>
+                <label>Brighton</label>
+            </value>
+            <value>
+                <fullName>Brisbane</fullName>
+                <default>false</default>
+                <label>Brisbane</label>
+            </value>
+            <value>
+                <fullName>Cardiff University</fullName>
+                <default>false</default>
+                <label>Cardiff University</label>
+            </value>
+            <value>
+                <fullName>Centre for Arts and Technology</fullName>
+                <default>false</default>
+                <label>Centre for Arts and Technology</label>
+            </value>
+            <value>
+                <fullName>Coventry University London</fullName>
+                <default>false</default>
+                <label>Coventry University London</label>
+            </value>
+            <value>
+                <fullName>DePaul University</fullName>
+                <default>false</default>
+                <label>DePaul University</label>
+            </value>
+            <value>
+                <fullName>Durham University</fullName>
+                <default>false</default>
+                <label>Durham University</label>
+            </value>
+            <value>
+                <fullName>Flinders University</fullName>
+                <default>false</default>
+                <label>Flinders University</label>
+            </value>
+            <value>
+                <fullName>James Madison University</fullName>
+                <default>false</default>
+                <label>James Madison University</label>
+            </value>
+            <value>
+                <fullName>Kingston University London</fullName>
+                <default>false</default>
+                <label>Kingston University London</label>
+            </value>
+            <value>
+                <fullName>Lancaster University</fullName>
+                <default>false</default>
+                <label>Lancaster University</label>
+            </value>
+            <value>
+                <fullName>Leeds Beckett University</fullName>
+                <default>false</default>
+                <label>Leeds Beckett University</label>
+            </value>
+            <value>
+                <fullName>Lipscomb University</fullName>
+                <default>false</default>
+                <label>Lipscomb University</label>
+            </value>
+            <value>
+                <fullName>Liverpool John Moores University</fullName>
+                <default>false</default>
+                <label>Liverpool John Moores University</label>
+            </value>
+            <value>
+                <fullName>London</fullName>
+                <default>false</default>
+                <label>London</label>
+            </value>
+            <value>
+                <fullName>Long Island University Brooklyn</fullName>
+                <default>false</default>
+                <label>Long Island University Brooklyn</label>
+            </value>
+            <value>
+                <fullName>Long Island University Post</fullName>
+                <default>false</default>
+                <label>Long Island University Post</label>
+            </value>
+            <value>
+                <fullName>Lynn University</fullName>
+                <default>false</default>
+                <label>Lynn University</label>
+            </value>
+            <value>
+                <fullName>Melbourne</fullName>
+                <default>false</default>
+                <label>Melbourne</label>
+            </value>
+            <value>
+                <fullName>Perth</fullName>
+                <default>false</default>
+                <label>Perth</label>
+            </value>
+            <value>
+                <fullName>Royal Holloway</fullName>
+                <default>false</default>
+                <label>Royal Holloway</label>
+            </value>
+            <value>
+                <fullName>Royal Roads University International Study Centre</fullName>
+                <default>false</default>
+                <label>Royal Roads University International Study Centre</label>
+            </value>
+            <value>
+                <fullName>Sydney Darlinghurst</fullName>
+                <default>false</default>
+                <label>Sydney Darlinghurst</label>
+            </value>
+            <value>
+                <fullName>Sydney Waterloo</fullName>
+                <default>false</default>
+                <label>Sydney Waterloo</label>
+            </value>
+            <value>
+                <fullName>Teesside University</fullName>
+                <default>false</default>
+                <label>Teesside University</label>
+            </value>
+            <value>
+                <fullName>Texas A&amp;M Corpus Christi University</fullName>
+                <default>false</default>
+                <label>Texas A&amp;M Corpus Christi University</label>
+            </value>
+            <value>
+                <fullName>University College Dublin</fullName>
+                <default>false</default>
+                <label>University College Dublin</label>
+            </value>
+            <value>
+                <fullName>University of Aberdeen</fullName>
+                <default>false</default>
+                <label>University of Aberdeen</label>
+            </value>
+            <value>
+                <fullName>University of Auckland</fullName>
+                <default>false</default>
+                <label>University of Auckland</label>
+            </value>
+            <value>
+                <fullName>University of Hartford</fullName>
+                <default>false</default>
+                <label>University of Hartford</label>
+            </value>
+            <value>
+                <fullName>University of Huddersfield</fullName>
+                <default>false</default>
+                <label>University of Huddersfield</label>
+            </value>
+            <value>
+                <fullName>University of Huddersfield London</fullName>
+                <default>false</default>
+                <label>University of Huddersfield London</label>
+            </value>
+            <value>
+                <fullName>University of Leeds</fullName>
+                <default>false</default>
+                <label>University of Leeds</label>
+            </value>
+            <value>
+                <fullName>University of Lincoln</fullName>
+                <default>false</default>
+                <label>University of Lincoln</label>
+            </value>
+            <value>
+                <fullName>University of Sheffield International College</fullName>
+                <default>false</default>
+                <label>University of Sheffield International College</label>
+            </value>
+            <value>
+                <fullName>University of Strathclyde</fullName>
+                <default>false</default>
+                <label>University of Strathclyde</label>
+            </value>
+            <value>
+                <fullName>University of Surrey</fullName>
+                <default>false</default>
+                <label>University of Surrey</label>
+            </value>
+            <value>
+                <fullName>University of Sussex</fullName>
+                <default>false</default>
+                <label>University of Sussex</label>
+            </value>
+            <value>
+                <fullName>University of Vermont</fullName>
+                <default>false</default>
+                <label>University of Vermont</label>
+            </value>
+            <value>
+                <fullName>University of Waikato College</fullName>
+                <default>false</default>
+                <label>University of Waikato College</label>
+            </value>
+            <value>
+                <fullName>Western Washington University</fullName>
+                <default>false</default>
+                <label>Western Washington University</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

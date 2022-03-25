@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>redu_Department__c</fullName>
+    <externalId>false</externalId>
+    <label>Department</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Academic</fullName>
+                <default>false</default>
+                <label>Academic</label>
+            </value>
+            <value>
+                <fullName>Accommodation</fullName>
+                <default>false</default>
+                <label>Accommodation</label>
+            </value>
+            <value>
+                <fullName>Admissions</fullName>
+                <default>false</default>
+                <label>Admissions</label>
+            </value>
+            <value>
+                <fullName>CDM Admissions</fullName>
+                <default>false</default>
+                <label>CDM Admissions</label>
+            </value>
+            <value>
+                <fullName>College of Law</fullName>
+                <default>false</default>
+                <label>College of Law</label>
+            </value>
+            <value>
+                <fullName>Compliance</fullName>
+                <default>false</default>
+                <label>Compliance</label>
+            </value>
+            <value>
+                <fullName>Enrollment Services</fullName>
+                <default>false</default>
+                <label>Enrollment Services</label>
+            </value>
+            <value>
+                <fullName>Finance</fullName>
+                <default>false</default>
+                <label>Finance</label>
+            </value>
+            <value>
+                <fullName>Freshman Admissions</fullName>
+                <default>false</default>
+                <label>Freshman Admissions</label>
+            </value>
+            <value>
+                <fullName>Graduate Admissions</fullName>
+                <default>false</default>
+                <label>Graduate Admissions</label>
+            </value>
+            <value>
+                <fullName>ISC</fullName>
+                <default>false</default>
+                <label>ISC</label>
+            </value>
+            <value>
+                <fullName>ISSS</fullName>
+                <default>false</default>
+                <label>ISSS</label>
+            </value>
+            <value>
+                <fullName>KGSB Admissions</fullName>
+                <default>false</default>
+                <label>KGSB Admissions</label>
+            </value>
+            <value>
+                <fullName>OIE</fullName>
+                <default>false</default>
+                <label>OIE</label>
+            </value>
+            <value>
+                <fullName>Scholarship</fullName>
+                <default>false</default>
+                <label>Scholarship</label>
+            </value>
+            <value>
+                <fullName>Transfer Admissions</fullName>
+                <default>false</default>
+                <label>Transfer Admissions</label>
+            </value>
+            <value>
+                <fullName>Visa</fullName>
+                <default>false</default>
+                <label>Visa</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
